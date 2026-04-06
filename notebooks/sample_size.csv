@@ -1,0 +1,101 @@
+country,age,bmi,menstrual_regularity,hirsutism,acne_severity,family_history_of_pcos,insulin_resistance,lifestyle_score,stress_levels,city_type,socioeconomic_status,awareness_of_pcos,fertility_concerns,undiagnosed_pcos_likelihood,ethnicity,diagnosis
+Malawi,38,Normal,Regular,No,Mild,No,No,9,Medium,Rural,Middle,No,No,0.1431405154444663,Caucasian,No
+Malaysia,28,Normal,Irregular,No,Mild,No,No,5,High,Urban,Middle,Yes,Yes,0.0926127089163867,Asian,No
+Angola,36,Normal,Regular,No,Moderate,No,No,6,Medium,Urban,High,Yes,Yes,0.1794932054093088,African,No
+Malaysia,35,Underweight,Regular,No,Mild,No,No,2,Medium,Rural,Middle,No,Yes,0.212167278116185,Caucasian,No
+Chad,34,Overweight,Irregular,Yes,Mild,No,No,4,High,Rural,Middle,Yes,No,0.2471530663950602,Asian,No
+Germany,28,Normal,Regular,Yes,Mild,No,Yes,4,Low,Urban,Low,No,No,0.1241609914212309,Caucasian,No
+Guatemala,22,Overweight,Regular,No,Moderate,No,No,3,Low,Rural,Low,Yes,No,0.1510671369072387,Other,Yes
+Indonesia,33,Normal,Irregular,Yes,Mild,Yes,Yes,5,Low,Urban,Middle,Yes,No,0.1314170150692172,Caucasian,Yes
+North Korea,28,Overweight,Regular,No,Mild,No,Yes,2,Medium,Rural,Middle,Yes,Yes,0.1816004574380479,Caucasian,No
+Yemen,39,Normal,Regular,Yes,Mild,Yes,Yes,10,Low,Urban,Middle,No,Yes,0.0883018834860307,Caucasian,Yes
+Australia,22,Overweight,Regular,No,Mild,Yes,No,10,High,Rural,High,Yes,Yes,0.1789155832477103,Asian,No
+Somalia,31,Normal,Irregular,No,Mild,No,No,5,Medium,Urban,Low,Yes,No,0.1525263619420568,Asian,Yes
+Malaysia,30,Overweight,Regular,Yes,Mild,No,No,1,Low,Urban,Middle,Yes,No,0.071906608761799,African,No
+Burkina Faso,16,Normal,Regular,Yes,Severe,No,No,9,Medium,Urban,Low,No,Yes,0.0912565960480724,African,No
+Japan,41,Overweight,Regular,Yes,Mild,Yes,No,10,Low,Urban,High,Yes,No,0.1403603560589914,Other,No
+Chile,43,Overweight,Irregular,Yes,Moderate,No,No,7,Low,Urban,Middle,Yes,Yes,0.1559096581087146,African,No
+Morocco,47,Obese,Regular,No,Mild,Yes,Yes,3,Medium,Urban,Low,Yes,Yes,0.1061111530596757,Hispanic,No
+Iran,15,Overweight,Regular,No,Moderate,Yes,Yes,6,Medium,Urban,Middle,No,Yes,0.101959810267452,Caucasian,No
+Ecuador,25,Overweight,Regular,No,Mild,No,No,2,Medium,Urban,Low,No,No,0.1266793482342147,Caucasian,No
+Chad,18,Overweight,Regular,No,Mild,Yes,No,1,Medium,Rural,Middle,No,No,0.1552942940236714,Caucasian,No
+Ukraine,42,Overweight,Irregular,No,Severe,No,No,8,Medium,Rural,Middle,No,No,0.2224718135438369,African,No
+Senegal,26,Overweight,Regular,Yes,Mild,No,Yes,2,High,Urban,Middle,Yes,No,0.2086502955295975,African,No
+Uzbekistan,17,Obese,Regular,No,Mild,Yes,No,6,High,Urban,Middle,Yes,Yes,0.0808875672367,Caucasian,No
+Tanzania,20,Normal,Irregular,No,Moderate,Yes,Yes,2,Medium,Urban,Middle,Yes,No,0.1482849216292645,African,No
+Taiwan,37,Overweight,Regular,Yes,Mild,No,No,5,High,Urban,Middle,No,No,0.1890852803289437,Caucasian,No
+Germany,17,Normal,Regular,Yes,Mild,Yes,No,4,Low,Urban,Low,Yes,No,0.1922902595459001,Other,No
+Iraq,20,Underweight,Regular,No,Mild,No,No,7,Medium,Rural,Middle,No,Yes,0.193687855094786,Caucasian,No
+Chile,33,Normal,Irregular,Yes,Mild,No,No,4,Medium,Urban,High,Yes,Yes,0.050880207453837,Hispanic,No
+Brazil,16,Overweight,Irregular,No,Mild,No,No,2,Medium,Urban,High,Yes,No,0.1268695352913202,Asian,No
+Ukraine,36,Overweight,Regular,No,Mild,No,No,8,Low,Rural,Low,No,No,0.1789476781211358,Hispanic,No
+Morocco,27,Overweight,Regular,Yes,Mild,No,Yes,8,Medium,Urban,Middle,Yes,Yes,0.0524011346239727,Hispanic,No
+United States,27,Overweight,Irregular,No,Mild,No,No,6,Low,Rural,High,No,Yes,0.0948529833789162,African,No
+Nigeria,40,Overweight,Regular,Yes,Mild,No,Yes,9,Medium,Urban,Middle,Yes,No,0.0704266297542729,Hispanic,No
+Australia,26,Overweight,Regular,No,Mild,No,No,6,Low,Urban,Middle,Yes,Yes,0.0849726699224045,Other,No
+Mexico,31,Underweight,Irregular,No,Severe,No,No,2,Medium,Rural,High,Yes,No,0.2417242662696594,Caucasian,No
+Germany,44,Normal,Regular,No,Moderate,No,No,3,Medium,Rural,Middle,Yes,No,0.092091444542761,Hispanic,No
+Netherlands,31,Overweight,Irregular,Yes,Moderate,No,No,3,Medium,Rural,Low,No,Yes,0.0973229096374268,Asian,No
+Venezuela,25,Obese,Regular,No,Mild,No,No,3,Medium,Urban,Middle,No,Yes,0.1987516229705121,African,No
+Syria,49,Underweight,Regular,No,Moderate,No,No,3,Low,Urban,Middle,No,No,0.092700854739011,Other,Yes
+United Kingdom,26,Overweight,Regular,Yes,Mild,No,No,2,Low,Urban,Middle,No,No,0.1500644889843532,Caucasian,No
+Ivory Coast,24,Underweight,Regular,No,Moderate,No,No,3,Medium,Urban,Low,Yes,No,0.2359106070760609,Caucasian,No
+Saudi Arabia,19,Obese,Irregular,Yes,Mild,No,Yes,2,Low,Urban,Middle,No,Yes,0.1324935893352546,Other,No
+Guatemala,17,Overweight,Irregular,Yes,Mild,No,Yes,10,High,Rural,Middle,No,Yes,0.1424933354620421,African,No
+Malaysia,34,Normal,Regular,No,Mild,Yes,No,10,High,Rural,Low,No,No,0.1980066048650454,Caucasian,No
+Poland,34,Overweight,Irregular,Yes,Mild,No,No,7,Medium,Urban,Middle,Yes,Yes,0.2159915181673058,Hispanic,No
+Malawi,27,Obese,Regular,No,Mild,No,No,10,Low,Urban,Low,Yes,No,0.1351289708488006,Caucasian,No
+Morocco,33,Normal,Regular,Yes,Mild,Yes,No,7,Low,Urban,Middle,Yes,No,0.1978224544283173,African,No
+Colombia,33,Normal,Regular,No,Mild,No,No,8,Medium,Urban,Low,No,No,0.1516953006674213,Caucasian,No
+Romania,18,Overweight,Regular,Yes,Mild,No,No,1,Low,Urban,Low,Yes,Yes,0.1777340578188931,African,No
+France,49,Normal,Irregular,No,Mild,No,No,8,Medium,Urban,Middle,Yes,Yes,0.2101098916908627,Caucasian,No
+Malaysia,31,Overweight,Irregular,No,Mild,Yes,No,2,Medium,Urban,High,Yes,No,0.1902464122628083,Asian,No
+Iran,44,Overweight,Regular,No,Mild,No,Yes,2,Medium,Urban,Low,Yes,Yes,0.2127232557198043,Caucasian,No
+Cameroon,38,Obese,Regular,No,Mild,No,No,10,Medium,Rural,Middle,Yes,No,0.0941605785162008,Caucasian,No
+United States,33,Normal,Irregular,No,Mild,Yes,Yes,7,Low,Urban,Low,Yes,No,0.0887681411019298,Caucasian,Yes
+Germany,18,Normal,Irregular,Yes,Mild,No,No,6,Medium,Rural,Middle,Yes,No,0.2064562766634797,Hispanic,No
+Yemen,42,Normal,Regular,Yes,Moderate,No,No,4,High,Rural,Low,No,Yes,0.1189938720391283,Asian,No
+Peru,30,Normal,Irregular,Yes,Mild,No,No,10,Medium,Urban,Low,No,Yes,0.1090173333352089,Caucasian,No
+Cambodia,26,Normal,Regular,Yes,Severe,No,Yes,10,Medium,Rural,Middle,No,Yes,0.1952587771483387,African,No
+Kazakhstan,21,Overweight,Regular,No,Mild,No,No,8,Low,Urban,Low,No,No,0.2236181107213903,Hispanic,No
+Kazakhstan,20,Overweight,Regular,No,Mild,No,Yes,6,Medium,Urban,Middle,No,Yes,0.1778235960691763,Hispanic,No
+Pakistan,41,Normal,Regular,Yes,Mild,Yes,No,7,Medium,Urban,Low,Yes,Yes,0.2454916269587459,Hispanic,No
+Malawi,39,Normal,Regular,No,Mild,Yes,No,1,Medium,Rural,Low,Yes,Yes,0.1725165605821346,Asian,No
+Niger,19,Overweight,Regular,No,Mild,No,No,5,Medium,Urban,Middle,Yes,Yes,0.2366927744157997,Asian,Yes
+Nigeria,20,Underweight,Regular,No,Mild,No,No,7,High,Urban,Middle,Yes,No,0.1338118227339777,Caucasian,No
+Turkey,36,Overweight,Irregular,No,Moderate,No,No,8,Low,Rural,Middle,No,No,0.1827786831414692,Caucasian,No
+Indonesia,24,Normal,Irregular,No,Mild,No,No,3,Medium,Urban,Middle,No,No,0.1512955124598696,Caucasian,Yes
+Niger,36,Obese,Regular,No,Mild,Yes,No,1,Low,Urban,Middle,No,No,0.1074034842813987,Caucasian,No
+Ukraine,34,Overweight,Regular,No,Moderate,Yes,No,6,Low,Rural,Low,Yes,Yes,0.1077132539356675,Asian,No
+Rwanda,18,Normal,Regular,No,Mild,No,No,2,High,Urban,Low,No,No,0.1570561038728909,Caucasian,No
+Malawi,48,Normal,Regular,Yes,Mild,No,No,8,Medium,Rural,Middle,No,No,0.1314444357640918,Caucasian,No
+Netherlands,19,Normal,Regular,Yes,Mild,No,No,1,Medium,Rural,High,No,Yes,0.0918621399560644,Asian,No
+Kenya,48,Normal,Regular,No,Mild,Yes,No,6,Low,Urban,Middle,Yes,Yes,0.0593265927536566,Caucasian,Yes
+Brazil,31,Overweight,Regular,Yes,Mild,No,No,4,Low,Urban,High,No,Yes,0.1882898048243018,Caucasian,No
+Mozambique,48,Overweight,Regular,No,Mild,Yes,No,2,Medium,Urban,Low,Yes,Yes,0.0542537801395031,African,No
+Venezuela,27,Normal,Regular,Yes,Mild,No,No,10,Low,Urban,Middle,Yes,No,0.0649412420099452,Asian,No
+Italy,41,Overweight,Regular,No,Mild,No,No,3,Medium,Urban,Low,Yes,Yes,0.1772678666819003,Asian,No
+Germany,46,Normal,Regular,Yes,Mild,No,Yes,3,Medium,Rural,Middle,Yes,Yes,0.1002161348855716,Asian,No
+Mali,33,Overweight,Irregular,Yes,Mild,No,Yes,7,Low,Rural,Low,Yes,No,0.1945740833903974,African,No
+Nigeria,34,Overweight,Irregular,Yes,Mild,No,Yes,2,High,Urban,Middle,No,No,0.2460223386951028,African,No
+Ivory Coast,19,Normal,Irregular,Yes,Mild,No,No,10,Low,Rural,High,No,No,0.1961431377632531,Hispanic,No
+Romania,30,Overweight,Regular,Yes,Moderate,Yes,Yes,2,Medium,Urban,Middle,Yes,No,0.2020600930754579,African,No
+Sri Lanka,49,Overweight,Irregular,Yes,Mild,No,No,3,Medium,Rural,Middle,Yes,No,0.1597189914078167,African,No
+Mali,20,Normal,Regular,No,Mild,No,Yes,8,High,Rural,High,No,No,0.1455472555404334,Caucasian,No
+Morocco,47,Normal,Regular,No,Mild,No,No,7,Medium,Rural,Middle,No,No,0.1723021127464205,Other,No
+Zimbabwe,43,Normal,Irregular,Yes,Mild,No,Yes,3,Medium,Rural,Middle,No,No,0.0623905510228233,Other,No
+Argentina,19,Overweight,Regular,No,Mild,No,No,4,Low,Urban,Middle,Yes,Yes,0.1039792619578464,Caucasian,No
+Netherlands,40,Obese,Regular,Yes,Mild,Yes,No,9,Medium,Rural,Low,Yes,Yes,0.2334714018550797,Hispanic,No
+China,36,Normal,Irregular,No,Mild,Yes,No,8,High,Urban,High,No,No,0.0593677845986796,Asian,No
+Benin,41,Obese,Regular,Yes,Severe,Yes,No,4,Medium,Rural,Middle,Yes,Yes,0.1797354628629212,African,No
+Uzbekistan,38,Overweight,Regular,No,Mild,No,Yes,2,Medium,Rural,Low,Yes,Yes,0.0863317811674981,Asian,No
+Niger,41,Normal,Regular,No,Moderate,Yes,No,3,Low,Urban,Middle,Yes,No,0.137489371075202,Other,No
+Vietnam,31,Overweight,Irregular,No,Mild,No,No,8,Medium,Urban,Low,Yes,Yes,0.0599272526352926,Other,No
+Morocco,42,Overweight,Irregular,Yes,Mild,No,No,1,Medium,Urban,Low,Yes,No,0.0940020840872158,Hispanic,No
+North Korea,32,Overweight,Regular,Yes,Mild,Yes,Yes,9,High,Urban,Middle,No,No,0.1159449266840287,Other,Yes
+Angola,36,Obese,Irregular,No,Mild,No,No,7,Medium,Rural,High,No,Yes,0.0520663420552117,African,No
+Russia,15,Underweight,Regular,No,Mild,No,No,3,Medium,Urban,Middle,Yes,No,0.0537279345928342,Other,No
+Nigeria,23,Normal,Regular,Yes,Mild,Yes,No,7,Medium,Urban,Low,Yes,No,0.1076200499648719,Hispanic,No
+Senegal,21,Normal,Regular,Yes,Mild,No,No,2,High,Urban,Middle,Yes,Yes,0.21972387636193,Asian,No
+Uganda,22,Normal,Regular,No,Moderate,No,No,4,Low,Urban,Middle,Yes,No,0.2096514547706007,African,No
+South Korea,19,Normal,Regular,No,Mild,No,No,10,High,Urban,Middle,No,No,0.2295410047835904,Hispanic,No
